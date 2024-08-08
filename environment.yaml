@@ -1,0 +1,8 @@
+name: meine_umgebung
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - jupyter
+  - pandas
