@@ -1,6 +1,6 @@
 def main():
     print("Hallo")
-    print("Hallo2)
+    print("Hallo2")
           
 
 main()
